@@ -40,18 +40,18 @@ Examples:
     alpha
     charlie
 
-    $ union a.txt b.txt
+    $ union 1.txt 2.txt
     alpha
     bravo
     charlie
 
-    $ intersect a.txt b.txt
+    $ intersect 1.txt 2.txt
     alpha
 
-    $ except a.txt b.txt
+    $ except 1.txt 2.txt
     bravo
 
-    $ extra a.txt b.txt
+    $ extra 1.txt 2.txt
     charlie
 
 
