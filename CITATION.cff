@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: The `intersect` command for Unix text processing
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: software
+authors:
+  - given-names: Joel Parker
+    family-names: Henderson
+    email: joel@joelparkerhenderson.com
+    affiliation: joelparkerhenderson.com
+    orcid: 'https://orcid.org/0009-0000-4681-282X'
+identifiers:
+  - type: url
+    value: 'https://github.com/SixArm/intersect/'
+    description: The `intersect` command for Unix text processing
+repository-code: 'https://github.com/SixArm/intersect/'
+abstract: >-
+  The `intersect` command for Unix text processing
+license: See license file
